@@ -1,0 +1,1688 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers vvisdom descendeth not from above or a brief vindication of a small tract, intituled, The Quakers folly made manifest to all men, as also of its authour, from the exceptions made against it, and aspersions cast upon him. In a pamphlet called The voice of wisdom, &amp;c. published by George Whithead, Quaker. / By Tho. Danson, M.A. late fellow of Magd. Coll. Oxon. And now minister of the Gospel at Sandwich in Kent.</title>
+            <author>Danson, Thomas, d. 1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81745</idno>
+            <idno type="STC">Wing D217</idno>
+            <idno type="STC">Thomason E2255_4</idno>
+            <idno type="STC">ESTC R210142</idno>
+            <idno type="EEBO-CITATION">99868968</idno>
+            <idno type="PROQUEST">99868968</idno>
+            <idno type="VID">121325</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81745)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121325)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 244:E2255[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers vvisdom descendeth not from above or a brief vindication of a small tract, intituled, The Quakers folly made manifest to all men, as also of its authour, from the exceptions made against it, and aspersions cast upon him. In a pamphlet called The voice of wisdom, &amp;c. published by George Whithead, Quaker. / By Tho. Danson, M.A. late fellow of Magd. Coll. Oxon. And now minister of the Gospel at Sandwich in Kent.</title>
+                  <author>Danson, Thomas, d. 1694.</author>
+               </titleStmt>
+               <extent>[8], 23; [1], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Allen, at the Rising Sun in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A narrative" has separate caption title and pagination; register is continuous.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Danson, Thomas, d. 1694. --  Quakers folly made manifest to all men --  Early works to 1800.</term>
+               <term>Whitehead, George, 1636?-1723. --  Voice of wisdom --  Early works to 1800.</term>
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121325:1" rendition="simple:additions"/>
+            <p>THE QUAKERS VVISDOM deſcendeth not from Above. Or a Brief VINDICATION Of a Small TRACT, Intituled, <hi>The Quakers Folly made manifest to all men,</hi> As alſo of its Authour, from the Exceptions made againſt <hi>It,</hi> and Aſperſions caſt upon <hi>Him.</hi>
+            </p>
+            <p>In a PAMPHLET CALLED <hi>The Voice of Wisdom, &amp;c.</hi>
+            </p>
+            <p>Publiſhed by GEORGE WHITHEAD, Quaker.</p>
+            <p>By <hi>THO. DANSON,</hi> M. A. Late Fellow of <hi>Magd.</hi> Coll. <hi>Oxon.</hi> And now Miniſter of the Goſpel at <hi>Sand<g ref="char:EOLhyphen"/>wich</hi> in <hi>Kent.</hi>
+            </p>
+            <q>
+               <p>And if it be not ſo now, who will make me a Liar, and mak my speech nothing worth? <bibl>
+                     <hi>Job 24. ult.</hi>
+                  </bibl>
+               </p>
+               <p>What have I now done? Is there not a cauſe? <bibl>
+                     <hi>1 Sam. 17.29.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Allen,</hi> at the Riſing Sun in <hi>Pauls</hi> Church-yard, 1659.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:121325:2"/>
+            <pb facs="tcp:121325:2"/>
+            <head>THE EPISTLE to the READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am once more come up<g ref="char:EOLhyphen"/>on on the Stage, not with<g ref="char:EOLhyphen"/>out a Bluſh; yet not be<g ref="char:EOLhyphen"/>cauſe I am unwilling to have my Doctrines brought to Light, (as <hi>G. W.</hi>
+               <note place="margin">
+                  <hi>G. W.</hi> voice of wiſdom, p. 3.</note> would make thee believe.) For I am ſo far from being aſhamed of them, that could the whole world be brought with<g ref="char:EOLhyphen"/>in
+<pb facs="tcp:121325:3"/> the reach of my voice, upon a due call, I would make a Confeſſion of my Faith. Nor yet becauſe I am conſci<g ref="char:EOLhyphen"/>ous to my ſelf, of wronging the Qua<g ref="char:EOLhyphen"/>ke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s<g ref="char:punc">▪</g> in my relation of the Diſputes between us; either by laying down things in their Names, which they never ſpoke, or diminiſhing from their words, or making falſe conſtru<g ref="char:EOLhyphen"/>ctions (to uſe the very words of <hi>G. Whithead's</hi> Charge) For let any un<g ref="char:EOLhyphen"/>derſtanding man peruſe the Book,<note place="margin">In Epiſt to the Reader.</note> (which occaſions this Reply) and he will find, that either I am charged with falſhood, in ſuch paſſages as have many and credible witneſſes to atteſt the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r truth; or elſe in particular words, as in putting <hi>Sanct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion</hi> for <hi>righteouſneſſe w thin,</hi> by which alteration (if any ſuch there were) no wrong was done to their meaning. And as for any falſe conſtruction of their words, if thou thinkeſt it worth the while to compare my falſe, and this mans true conſtruction, either
+<pb facs="tcp:121325:3"/> thou ſeeſt not with my eyes, or thou wilt ſee that they have no cauſe of complaint. I have followed my pre<g ref="char:EOLhyphen"/>ſent Antagoniſt ſtep by ſtep, and omitted nothing that hath the leaſt colour of Scripture, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſon, (unleſs where I make a reference to my for<g ref="char:EOLhyphen"/>mer Book, to avoid repetition) leſt he ſhould ſay, that like a child, I Skip what I cannot read. Only I confeſs, I am not able to match him at his <hi>Bil<g ref="char:EOLhyphen"/>lingſgate</hi> Rhetorick, nor wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld I with <hi>Jonah,</hi> be as hot as the Sun that ſcaldes me. For I make account (as once a Learned man ſaid) that ſo much as there is of undue paſſion, ſo much of nothing to the purpoſe For there Reaſon ſpends upon a falſe ſent, and forſakes the Queſtion ſtarted. I truſt that thou wilt be more confirmed in thy bad opinion of the Quakers, and that the duſt which they raiſe with their feet, I ſhall blow away, I mean, croſſe their endeavours to hide their meaning in doubtful words,
+<pb facs="tcp:121325:4"/> either out of ignorance, not being Maſters of their own Notions, or (which I rather believe) out of de<g ref="char:EOLhyphen"/>ſign, it being true of them, which <hi>Job</hi> ſpeaks of the Thief, <hi>If one know them, they are in the terrours of the ſhadow of death, Job 24.17.</hi> I hope thou wilt not be byaſſed by their ſeeming humility, for pride may be the root that bears that Branch. The Apostle ſpeaks of <hi>a voluntary humility,</hi> which was the effect of being <hi>vainly puft up by a fleſhly mind, Col. 2.18.</hi> And ſure I am, that if one part of the character which the Biſhop of <hi>Alif</hi> in the Coun<g ref="char:EOLhyphen"/>cil of <hi>Trent,</hi> gave of the Proteſtants, <hi>(viz.)</hi> that they had <hi>Orthodoxos Mores, i. e.</hi> an Orthodox Conver<g ref="char:EOLhyphen"/>ſation, be as true of the Quakers, as it was of the Proteſtants; yet the o<g ref="char:EOLhyphen"/>ther part, <hi>(viz.)</hi> that withal they had <hi>Haereticam Fidem, i. e.</hi> an He<g ref="char:EOLhyphen"/>torodox or Heretical Belief, is as true of theſe men, as it was falſe of thoſe.
+<pb facs="tcp:121325:4"/> And thou wilt find,<note place="margin">In the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ep.</note> that particularly <hi>G. W.</hi> laies the most innocent Truths under the odious imputation of <hi>Anti-Chriſts deceits.</hi>
+            </p>
+            <p>That thou maiſt not <hi>know the depths of Satan as they ſpeak,</hi> Rev. <hi>2.24.</hi> But maiſt <hi>hold faſt that Do<g ref="char:EOLhyphen"/>ctrine which thou haſt already,</hi> v. <hi>25.</hi> is the Prayer of</p>
+            <closer>
+               <signed>Thy Servant in the work of the Goſpel <hi>Tho. Danſon.</hi>
+               </signed>
+               <dateline>
+                  <hi>Sandwich,</hi> 
+                  <date>
+                     <hi>Aug. 15, 1659.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="question">
+            <pb facs="tcp:121325:5"/>
+            <pb n="1" facs="tcp:121325:5"/>
+            <head>
+               <hi>QUESTION 1.</hi> Concerning the Light of Christ.</head>
+            <sp>
+               <speaker>
+                  <seg rend="decorInit">T</seg>HO.</speaker>
+               <p>
+                  <hi>Darſon</hi> ſaith, the Lights mentioned, <hi>viz.</hi> natural and ſupernatural are two, and though all have the one, yet but few have the other.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>
+                  <hi>Anſ. The life of Chriſt is the Light of men,</hi> and that is not natural, but ſpiritual, and thou might as well count the Life of Chriſt natural, as count it (the Light) ſo.</p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>
+                  <hi>Reply</hi> 1. The diſtinction of natural or ſupernatu<g ref="char:EOLhyphen"/>ral or ſpiritual Light we have, <hi>Rom</hi> 1.17, 20. Where the revelation of righteouſneſſe in the Goſpel is oppoſed to the knowledge of the God-head, which men attain to by the Creation, <hi>Ch</hi> 2.14 The Gentiles are ſaid <hi>by na<g ref="char:EOLhyphen"/>ture to do the things con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ained in the Law, and are</hi> ſaid to be <hi>a Law to themſelves;</hi> when yet withal 'tis affirmed that they <hi>had not the Law (viz.</hi> revealed) or the <hi>Ora<g ref="char:EOLhyphen"/>cles of God,</hi> for they were committed to the <hi>Jews</hi> only at that time, <hi>ch.</hi> 3.2. 2. And to that ſilly Argument, that I might count the life of Chriſt natural, as well as the light, I anſw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, that there is a life of Chriſt natural, (<hi>viz.</hi> whereof Chriſt is the author as God) as well as
+<pb n="2" facs="tcp:121325:6"/> ſpiritual (whereof he is the author, as God-man) <hi>John</hi> 1.3. <hi>All things were made by him,</hi> with all their qualities and properties, and whatſoever goes to the making them what they are, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch ſo far as it intends life, may be explain<g ref="char:EOLhyphen"/>ed by <hi>Acts</hi> 17.25. <hi>He</hi> (God) <hi>giveth to all life and breath.</hi> Or if there be not ſuch a n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ural life, then Plants, Bruits, and all Man<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nd have a ſpiritual life (an ab<g ref="char:EOLhyphen"/>ſurdity to groſſe to lodge in the brain of any other man, but a Qua<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er.)</p>
+            </sp>
+            <sp>
+               <speaker>T. D</speaker>
+               <p>charged <hi>R.H.</hi> with ſaying the true Light hath not co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e over and comprehended thee.</p>
+            </sp>
+            <sp>
+               <speaker>G W.</speaker>
+               <p>
+                  <hi>Anſ.</hi> That's falſe, he ſaid no ſuch thing, for the Light hath comprehended thee, but thou art not come into it, nor haſt comprehended it</p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>
+                  <hi>Reply.</hi> My credit will go further than thine, <hi>G W. R. H</hi> did ſay as was related, but perhaps he meant as thou ſaieſt, that I was not come over to c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mprehend the true Light.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. D.</speaker>
+               <p>charged us with conſenting that the know<g ref="char:EOLhyphen"/>ledge o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Goſpel is vouchſafed to every man.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>
+                  <hi>Anſ.</hi> No ſuch thing d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d we conſent to, but that there were ſome in darkneſſe, ſo that their ignorance of the Goſpel does not argue that they had not that light in them, that was able o b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing them to know the Goſpel but rather that they diſobeyed the l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght of God in them, and <hi>liked not to retain God in their k owledge.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T.D.</speaker>
+               <p>
+                  <hi>Reply.</hi> My words are, <hi>If you meaning be that the Goſpel is vouchſafed by Chriſt to every man, I expect your proof:</hi> And R. <hi>H.</hi> by ſilence conſented tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that was their meaning, <hi>Quak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs Folly,</hi> p. 2. If your mean<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng be that all men have th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t of the Goſpel w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thin them, only all do not obey it, 'tis contrary to the Scripture. <hi>Eph.</hi> 5.8. H op<g ref="char:EOLhyphen"/>poſes the ſtate of darkneſſe in wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch they were, to their preſent ſtate of light; or if you<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> meaning be (for the words are doubtful) that all men have a ſpiritual capa<g ref="char:EOLhyphen"/>city
+<pb n="3" facs="tcp:121325:6"/> to underſtand the Goſpel when preached to them that's falſe, as appears by 1 <hi>Cor.</hi> 2 14 <hi>The na<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ural man receiveth not the things of the Spirit o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> God, nei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>her can he know them,</hi> &amp;c. no more than the blind eye can diſcern a viſible Object.</p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>brought <hi>Pſal.</hi> 147.19, 20. and that by the ſtatutes and judgments are meant the ſupernatural light or know<g ref="char:EOLhyphen"/>ledge of the Goſpel.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>
+                  <hi>Anſ.</hi> That makes for what I ſaid, for that may be ſhewed to a people which they know not: And this Prieſt hath confuted himſelf, for if theſe ſtatutes were the knowl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dge of the Goſpel, Why did <hi>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rael</hi> not know them who had them?</p>
+            </sp>
+            <sp>
+               <speaker>T.D.</speaker>
+               <p>
+                  <hi>Reply.</hi> If the Intent of the phraſe, <hi>ſhewing,</hi> be no more than that the Goſpel was preached, yet even that the Gentiles wanted at that time. The light of the Goſpel did not ſhine to them (as we may ſuppoſe the Sun might do, if all the world were bl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd) <hi>He hath not dealt ſo with any Nation, (i. e.</hi> not ſhewed them as to <hi>Iſrael) Pſal</hi> 147 20. To the Queſtion, Why <hi>Iſrael</hi> did not know the Statutes, who had them? I anſwer, Ignorance of them is not here attributed to the <hi>Jews,</hi> but to any other Nation except them. The Relative <hi>they</hi> hath for the Antecedent <hi>any Nation,</hi> not <hi>Jacob</hi> and <hi>Iſ<g ref="char:EOLhyphen"/>rael.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T.D.</speaker>
+               <p>ſaith, <hi>Rom.</hi> 2.15. is ſpoken of natural light op<g ref="char:EOLhyphen"/>poſed to the knowledge of the <hi>Jews.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. w.</speaker>
+               <p>
+                  <hi>Anſ.</hi> 'Tis ſpoken of the work of the Law, which Law was written in their hearts, and this Law was ſpiri<g ref="char:EOLhyphen"/>tual, and not a natural light.</p>
+            </sp>
+            <sp>
+               <speaker>T.D.</speaker>
+               <p>
+                  <hi>Reply.</hi> Seeing you do not underſtand the difference between the Law, and work of the Law in the heart, I'le teach you: By <hi>the Law in the hea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t,</hi> is meant an in<g ref="char:EOLhyphen"/>ward and ſpiritual conformity thereunto, which is called <hi>the Law,</hi> as the impreſſion of the Seal upon a Letter or
+<pb n="4" facs="tcp:121325:7"/> Bond, is called the Seal; which conformity lies in theſe, among other things; <hi>viz A conſent to the Law that it is good,</hi> Rom. 7.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>A read<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n ſſe to obedi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nce,</hi> Heb. 10.9. And <hi>a bringing into captivity <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>very thou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ht to the obedience of Chriſt,</hi> as the Apoſtles exp ſſion is, 2 <hi>Cor.</hi> 10.5. But by the work of the Law is m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ant, <hi>the knowl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dge of ſin,</hi> which is <hi>by the Law, Rom.</hi> 3 20 And the eff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t knowl dge in Con c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nce, <hi>viz.</hi> a t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtimony to t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eir obe<g ref="char:EOLhyphen"/>dience or diſob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dienc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tog<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther w th approbation or cen<g ref="char:EOLhyphen"/>ſure, <hi>Rom.</hi> 2 15 And hough the Law b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpiri ual, yet the work of it in the Gentiles is but natural, <hi>v.</hi> 14. <hi>The Gentiles do by nature</hi> (ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k the exp eſſeneſſe of the phraſe) <hi>the things co<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ned in the Law.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>Chriſt was not to be a light to the Gentiles till his coming in the fleſh.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>
+                  <hi>Anſ.</hi> What then was Chriſts preſence in the fleſh among all the Gentiles whom he did enl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght n? What darkneſſe is this? Seeing h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s outgoing h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve b <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n from of old. And what became of all th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> G ntiles that died be<g ref="char:EOLhyphen"/>fore the daies of Chriſt in the Fleſh? Were they con<g ref="char:EOLhyphen"/>demned becauſe they had no light of Chriſt given them, or becauſe they diſobeyed the light which th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y had?</p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>
+                  <hi>Reply.</hi> 1. Till the time of Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſt in the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſh, the Goſpel was not preached to the G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntile-world; but I did not ſay (as you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mply) that Ch<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt did preach it in his own perſon to them: Chriſt did honour the Miniſtry of the Apoſtles above his own, by the larger extent of their Commiſſion. As for <hi>Chriſts outgoings from of old,</hi> that paſſage taken out of <hi>M cah</hi> 5 2. intends Chriſts eter<g ref="char:EOLhyphen"/>nal ge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation and e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rnal deſignation to the Office of Mediator, not any knowledge of Ch iſt vouchſafed throughout all ages to the whole world. To your laſt Queſtion I anſwer, that the Gentiles before Chriſt periſh<g ref="char:EOLhyphen"/>ed for diſobeying the L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y had, <hi>Rom.</hi> 2.12. But yet their ignorance of Chriſt was the occaſion of their con<g ref="char:EOLhyphen"/>demnation
+<pb n="5" facs="tcp:121325:7"/> for that diſobedience, <hi>Acts</hi> 4.12. <hi>Neither is there ſalv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tion in any o her, for there is none other Name under Heaven given among men, wher<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>by we muſt be ſaved.</hi> Thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> diſobeying that light d d damn them, but their o<g ref="char:EOLhyphen"/>bed<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ence to it could not have ſaved them without Chriſt, and Chr ſt ſaves n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne but thoſe who know him.</p>
+               <p>[What followes in <hi>p.</hi> 11, 12, 13, 14. of <hi>G W.</hi> Books, is nothing but what hath b n anſwered in Qu. <hi>Folly,</hi> and therefore I ſhall omit them]</p>
+            </sp>
+         </div>
+         <div n="2" type="question">
+            <head>
+               <hi>QUESTION 2.</hi> Of the Doctrine of Perfection.</head>
+            <sp>
+               <speaker>T.D</speaker>
+               <p>SAi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h, <hi>p</hi> 9. your Doctrine of Pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fection is againſt the Tenour of the Scripture, and to prove it, he b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Job</hi> 9.20 and he ſaith, <hi>p</hi> 11. the Perfection <hi>Paul</hi> d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nies is th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtate of the reſurrection, which is to be wi h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut ſin.</p>
+            </sp>
+            <sp>
+               <speaker>G.W</speaker>
+               <p>
+                  <hi>Anſ.</hi> Here he hath wronged the Scriptures, for th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y do not ſay that Perf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction is againſt the Tenour of them, for God commands Pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fection. And <hi>Paul</hi> denied not the ſtate of the reſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rection, for he ſaid, <hi>If you be ri<g ref="char:EOLhyphen"/>ſen with Chriſt,</hi> &amp;c And he denied not freedom from ſin, <hi>Rom.</hi> 6.18, 22. <hi>Job</hi> 9 20, 21 proves not, that <hi>Job</hi> was not without ſin, when God had delivered him out of that affliction, wh rein he had ſaid, <hi>If I ſay I am perfect,</hi> &amp;c. but after this <hi>Job</hi> was perfect.</p>
+            </sp>
+            <sp>
+               <speaker>T.D.</speaker>
+               <p>
+                  <hi>Reply.</hi> All the Scriptures which require repent<g ref="char:EOLhyphen"/>ance and mortification during this life, do deny the poſſi<g ref="char:EOLhyphen"/>bility
+<pb n="6" facs="tcp:121325:8"/> of Perfection. For they and it are incompatible. As for the commands they are the meaſure of our duty, not of our ability to obedience. Ther's no reaſon to the contrary, but that Gods commands ſhould run in the old ſtile, though we are unable to fulfil them. As for <hi>Col.</hi> 3.1. which he quotes, 'tis plain that that reſurrect, with Chriſt, was conſiſtent with ſin, <hi>v.</hi> 5. <hi>Mortifie therefore your mem<g ref="char:EOLhyphen"/>bers which are upon the earth;</hi> By <hi>members</hi> we are to un<g ref="char:EOLhyphen"/>derſtand inordinate deſires, motions and actions of cor<g ref="char:EOLhyphen"/>rupt nature (ſuch as are reckoned up in the verſe) By <hi>mortifying</hi> them, a c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſtant endeavour to repreſſe and ſub<g ref="char:EOLhyphen"/>due them. And the Argument to inforce the duty of mor<g ref="char:EOLhyphen"/>tification is drawn (as from their death with Chriſt, and life with him,) ſo from their firſt and ſpiritual reſurrecti<g ref="char:EOLhyphen"/>on with him. But the ſtate of the reſurrection which <hi>Paul</hi> denies, is of that perfection of holineſſe (as I told you <hi>G.W.</hi>) which accompanies the laſt and bodily reſur<g ref="char:EOLhyphen"/>rection. As for <hi>Rom.</hi> 6.18 22. I anſwered it in my Book, <hi>p.</hi> 47. The Apoſtle explains himſelf, that he means <hi>from the dominion of ſin, v</hi> 14. And for <hi>Job</hi> 'tis plain e<g ref="char:EOLhyphen"/>nough, that the Character given of <hi>Job, viz. a perfect man,</hi> was before his affl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctions, and not after (as <hi>G W.</hi> would make the Reader believe) for Gods commendati<g ref="char:EOLhyphen"/>on of him for his perfection and uprightneſſe, <hi>v.</hi> 8. was the occaſion of the Devils deſiring leave of God to afflict him, <hi>v.</hi> 11. and of Gods grant, (that his words might be found true) <hi>v.</hi> 12.</p>
+            </sp>
+            <sp>
+               <speaker>T.D.</speaker>
+               <p>
+                  <hi>p.</hi> 12. A Believers perſon with his works are ac<g ref="char:EOLhyphen"/>cepted with God, though his works be not perfect.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>
+                  <hi>Anſ.</hi> Here he would have believers like the Prieſts, who ſin in the beſt of their performances (as they confeſſe) But I ſay the Believers works are wrought in God, and God works them in them, and theſe works of God are perfect.</p>
+            </sp>
+            <sp>
+               <speaker>T.D.</speaker>
+               <p>
+                  <hi>Rep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y, As</hi> for our confeoſſin, 'tis agreeable to
+<pb n="7" facs="tcp:121325:8"/> Scripture, Eccleſ. 7.20 <hi>There is not a juſt man upon earth, that doth good, and ſinneth not, i. e.</hi> that ſinneth not in doing good. Exod 28.38. <hi>In<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>quity of holy things</hi> is there ſpoken of, Duties which are holy for the matter, are in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quity for the manner of pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>formance. Your argument doth no more conclude for the perfection of Grace, than it does that every child ſhould be a man the firſt day of his birth, for that is one of Gods works, as well as Grace. As for Saints, they may be ſaid to be perfect in regard of parts (as a child is a perfect man) 1 <hi>Theſ.</hi> 5.23. <hi>Sanctified in ſoul, and body, and spirit,</hi> and in re<g ref="char:EOLhyphen"/>gard of their aims and intendments, but not as to degrees of Grace. Sin and Grace in this life are together in the ſame ſubj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct, as <hi>Eſau</hi> and <hi>Jacob</hi> in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſame womb. As for the name of Prieſts, which throughout you give me, and other Miniſters of Chriſt, I count it no diſparage<g ref="char:EOLhyphen"/>ment (however you intend it) ſeeing Chriſt is called by the Holy Ghoſt, <hi>the High Prieſt of our Profeſſion, Heb.</hi> 3 1.</p>
+               <p>[The anſwer of <hi>G.W</hi> to <hi>Eccleſ.</hi> 7.20. is no other than what M. <hi>Fiſh r</hi> gave, which is v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry abſurd, and not worthy any further reply, ſee <hi>Qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Folly, p.</hi> 13.</p>
+            </sp>
+            <sp>
+               <speaker>T.D.</speaker>
+               <p>We (the Saints) are one body with them in Heaven, and have the ſame title with th m in poſſeſſion, <hi>p</hi> 14, 38.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>
+                  <hi>Anſ</hi> This confutes his former words, for they that are one body with them in Heaven, are members of the Body of Chriſt which is perfect, and its members c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leat, <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ol</hi> 2.10 <hi>Eph.</hi> 3 15</p>
+            </sp>
+            <sp>
+               <speaker>T D.</speaker>
+               <p>
+                  <hi>Reply.</hi> The Body of Chriſt is not yet perfect, for the e are great numbers of elect belonging to it, yet u bo n. Chriſt gives a commiſſion to preach, and a promiſe of b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſing to the Apoſtles, and their ſucceſſours, <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t</hi> 28.19 20. And the Apoſtle ſaies, that Paſtors and Teachers are <hi>for the edifying of the Body of Chriſt, till we all
+<pb n="8" facs="tcp:121325:9"/> come in the unity of the Faith,</hi> &amp;c. <hi>Eph.</hi> 3 12, 13. Put both places together, and they inform us that Chriſts Body is not built up (<hi>i. e.</hi> all the Elect not converted, and ſo not actual members of Chriſts body, for ſuch men are by Faith) <hi>till the end of the world. As</hi> for <hi>Col.</hi> 2.10. 'tis plain enough that the Apoſtle calls the Saints <hi>compleat,</hi> in reference to the Doctrine of Chriſt, which ſhewed them all things neceſſary to ſalvation, ſo that they needed not the addition, which natural reaſon, humane tradition, or <hi>Judaical</hi> ceremonies could make. As for circumciſion, we find expreſly that it was urged as neceſſary to ſalvati<g ref="char:EOLhyphen"/>on, <hi>Acts</hi> 15 1. This the Apoſtle denies. They are alſo ſaid to be <hi>compleat in Christ,</hi> in reſpect of Ordinances, and outward priviledges, as particularly of Baptiſm, which rendred ci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cumciſion uſeleſſe, becauſe it ſignified the ſame thing which circumciſion did, in a more large and emphatical manner, <hi>v.</hi> 11, 12. As for <hi>Eph.</hi> 3.15. Ther's nothing in that <hi>v.</hi> to his purpoſe, but I ſuppoſe he means <hi>v.</hi> 19 <hi>That ye might be filled with all the fulneſs of God. Fulneſſe of God</hi> intends not equality, but quali<g ref="char:EOLhyphen"/>ty, a divine and ſpiritual fulneſſe. And the Apoſtle praies that they m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght be filled with it all (and ſo they ſhould be in Heaven) but he aſſerts not that either they were, or ſhould be filled in this life.</p>
+            </sp>
+         </div>
+         <div n="3" type="question">
+            <pb n="9" facs="tcp:121325:9"/>
+            <head>
+               <hi>QUESTION 3.</hi> Concerning Juſtification.</head>
+            <sp>
+               <speaker>T.D.</speaker>
+               <p>VVHereas <hi>S. Fiſh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> ſpoke of our good work being a m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou cauſe of our juſtification, this P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ieſt hath M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> much ado to p ove th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <hi>S. F.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a rank Papiſt, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h our good wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks are but imperfectly good, and Iſa 64.6. <hi>All our righteouſ<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s are as filthy rags</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>
+                  <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ. S. F.</hi> never affirme<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that imperfect works and the righteouſneſſe which is as il hy rags do deſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve Juſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fication, as this P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> hath w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nged him, but good works wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch are the fulfilling of th <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aw</p>
+            </sp>
+            <sp>
+               <speaker>T.D.</speaker>
+               <p>
+                  <hi>Reply.</hi> Whether I have w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nged <hi>S. F</hi> I leave to the Readers judgment, that ſhall peruſe <hi>Qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kers Folly, p.</hi> 14, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5. I urged againſt him, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r though our evil works did cond<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mn, yet ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> g<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d work<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> could not juſti<g ref="char:EOLhyphen"/>fie; becauſe none of ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> good wor<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n this life are per<g ref="char:EOLhyphen"/>fect, and ſo not the fulfi l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng of the Law, as evil works are the violation or breaking of the Law. And to prove the imp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rfection of our righteouſneſſe. I brought <hi>Iſa.</hi> 64 6. To which <hi>G.W.</hi> hath nor, nor indeed can anſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. 'Tis an expreſſe place, The Chu ch c<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s all her righte<g ref="char:EOLhyphen"/>ouſneſſes to the garments of a per<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on legally unclean, which by the Law were unclean, and to be waſhed, be<g ref="char:EOLhyphen"/>cauſe his body had touched them.</p>
+            </sp>
+            <sp>
+               <speaker>T.D.</speaker>
+               <p>hath confeſſed, <hi>p.</hi> 15. that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ood works which are
+<pb n="10" facs="tcp:121325:10"/> the fulfilling of the Law, deſerve ſalvation, and that the deſert of obedience ariſes from the dignity of the Subject, by which it is performed.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>
+                  <hi>Anſ.</hi> So then this makes for what <hi>S.F.</hi> declared, for here it appears then that obedience to God is deſerv<g ref="char:EOLhyphen"/>ing.</p>
+            </sp>
+            <sp>
+               <speaker>T.D.</speaker>
+               <p>
+                  <hi>Reply.</hi> I did not directly affirm that good works which are the fulfilling of the Law deſerve ſalvation, but that from the rule of contraries (which Mr. <hi>Fiſher</hi> urged) we might ſo argue. For upon ſuppoſition that any meer man could fulfil the Law, yet he could not be juſtifi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, unleſſe he had undergone the penalty of his former diſobe<g ref="char:EOLhyphen"/>dience, and ſo made reparations to the Juſtice of God for damages ſuſtain'd. And again, though I aſſerted the de<g ref="char:EOLhyphen"/>ſert of obedience from the dignity of the Subject, yet withal I affirmed that the Subject muſt be an infinite per<g ref="char:EOLhyphen"/>ſon, and one from whom no obedience is due, <hi>Quakers Folly, p.</hi> 15.</p>
+            </sp>
+            <sp>
+               <speaker>T D.</speaker>
+               <p>gives the explication of 1 <hi>Cor.</hi> 6.11. Where by <hi>the Spirit of our God,</hi> is interpreted of the Spirits applica<g ref="char:EOLhyphen"/>tion, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> referring to Juſt fication, or elſe it may relate to Sanctification, ſpoken of in the former clauſe.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>
+                  <hi>Anſ.</hi> He would divide the Spirit of God, from the Name of Jeſus; when as his Name and Spirit are one. And where doth he prove that juſtified by the Spirit, (which he ignorantly calls the third Perſon in the Tri<g ref="char:EOLhyphen"/>nity) is not the work of Grace? Here he would divide the Grace of God from the Spirit, for the Saints were <hi>juſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fied freely by his Grace,</hi> which was one with the Spi<g ref="char:EOLhyphen"/>rit.</p>
+            </sp>
+            <sp>
+               <speaker>T. D</speaker>
+               <p>
+                  <hi>Reply.</hi> Though Jeſus and the Spirit are one God, yet they have diſtinct operat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons, or manner of working about our Juſtification. 'Tis Jeſus alone, and not the Spirit (nor the Father) who merits and makes ſatisfa<g ref="char:EOLhyphen"/>ction for our ſins. The Spirit gives Faith to lay hold on
+<pb n="11" facs="tcp:121325:10"/> Chriſt for Juſtification, and ſeals the ſouls intereſt when obtained. I have proved that we are not juſtified by the work of Grace, or good works, in the diſcourſe upon Ju<g ref="char:EOLhyphen"/>ſtification, <hi>Quakers Folly,</hi> p. 15. <hi>&amp;c.</hi> And ſo that the work of Grace cannot be meant in that place (if by Spi<g ref="char:EOLhyphen"/>rit muſt be meant the meritorious cauſe of Juſtification, as you aſſert) I do not divide the Grace of God from the Spirit. But I affirm, that the G <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce wrought in us by the Spirit is no meritorious cauſe o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Juſtification. As for that paſſage, <hi>justified fre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly by his Grace,</hi> which is in <hi>Rom.</hi> 3.24. It intends not grace <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> us, but the grace or favour of God in giving Chriſt for our propitiation, <hi>v.</hi> 25. As for your accuſation of ignoran<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, I value it not, but look upon it as a juſtifiable ground <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> account you a blaſ<g ref="char:EOLhyphen"/>phemer, for 'tis an implicite denying of what I expreſly affirmed, <hi>(viz)</hi> Perſons in the Godhead.</p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>
+                  <hi>p.</hi> 16. The Apoſtle aſſerts <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he holineſſe of mans nature as a work of the Spirit confo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ming it to the Law, to be the meritorious cauſe of our f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dom from ſin.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>
+                  <hi>Anſ.</hi> And yet he hath d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al d good works of o<g ref="char:EOLhyphen"/>bedience to be a deſerving cauſe o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> juſtification. What is not juſtification a freedom from in? <hi>Acts</hi> 13.39. And where doth he prove the holineſſe o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mans nature is a me<g ref="char:EOLhyphen"/>rito<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ious cauſe of our freedom from ſin?</p>
+            </sp>
+            <sp>
+               <speaker>T D.</speaker>
+               <p>
+                  <hi>R ply</hi> I ſee <hi>G. W.</hi> thou art ſo far from perfect, that thou wanteſt moral honeſty. Thou ſhouldſt have added, what I did in the ſame period, to make up my ſenſe? <hi>but mark withal, 'tis not that [holineſſe of mans nature] which is in us, but in Chriſt.</hi> And then thou might'ſt have anſwered thy own Queſtions. The righteouſneſſe of Chriſts humane nature or active obedience, as we uſu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lly call it, in oppoſition to paſſive, is aſſerted to be the cauſe of our freedom from ſin and death, <hi>Rom.</hi> 8.2. But not righteouſneſſe inherent in the ſame nature, as it ſubſiſts in our perſons. As for <hi>Acts</hi> 13.39. I find nothing to
+<pb n="12" facs="tcp:121325:11"/> the purpoſe; it aſſerts not your Popiſh Doctrine, that juſtification is ſanctification, or that the righteouſneſſe whereby we are juſtified, is infuſed or inherent. The words are, <hi>And by him all that beli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve are juſtified from all things, from which ye could not be juſtified by the Law of Moſes,</hi> And it proves that by Faith men are freed from the guilt of all their ſins. And what of that?</p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>ſai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h, <hi>Rom.</hi> 8.4, 5. It impo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts the end for which God ſent Chriſt, that his righteouſneſſe might be impu<g ref="char:EOLhyphen"/>ted to us, as if it had been inherent in our ſelves.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>G. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </speaker>
+               <p>
+                  <hi>Anſ.</hi> If the Apoſtle had not meant the righte<g ref="char:EOLhyphen"/>ouſneſſe of the Law fulfilled in their own perſons, he would not have ſaid, <hi>fulfilled in us,</hi> neither would he have counted Chriſts righteouſneſſe inherent in them<g ref="char:EOLhyphen"/>ſelves, if he had not counted it <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, nor needed he to ſpeak of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ighteouſneſſe of the Law being <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o be fulfil<g ref="char:EOLhyphen"/>led in Chriſt (as if it had not been fulfilled in him)</p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>
+                  <hi>R<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ly.</hi> Bold man! Who art thou that teacheſt the Apoſtle how to ſpeak, who canſt not ſpeak ſenſe thy ſelf? (as appears by the middle clauſe of this thy anſwer.) If thou didſt underſtand thy ſelf, thou wouldſt ſay that the Apoſtle would not account that righteouſneſſe in the Saints, which was not in them. Nor indeed do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the Apoſtle ſo miſtake, but he aſſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts that the righteouſneſſe of Chriſt redounds to their benefit, as if it had been their own inherent righteouſneſſe As the principal is diſchar<g ref="char:EOLhyphen"/>ged from the debt, when the ſurety paid it, though the cred<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tor cannot, nor does ſay that the principal did make payment. Nor does the Apoſtle ſpeak of Chriſt's fulfil<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng the Law as i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he had not done it, but he tells of what Chriſt ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h already done, and to what end, <hi>(viz)</hi> that we might have the benefit of it, as if it had been our per<g ref="char:EOLhyphen"/>ſonal act.</p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>Suppoſed <hi>S. F.</hi> to mean, when he acknowledg<g ref="char:EOLhyphen"/>ed degrees among Believers, that ſome of theſe (Bel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ev<g ref="char:EOLhyphen"/>ers)
+<pb n="13" facs="tcp:121325:11"/> have a mixture of ſin with their Grace.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>
+                  <hi>Anſ.</hi> This is a falſe ſuppoſition, grace is pure, the mixture of ſin is in that which goeth from the grace.</p>
+            </sp>
+            <sp>
+               <speaker>T.D.</speaker>
+               <p>
+                  <hi>Reply.</hi> Reader, If thou doſt not judge this latter clauſe in the anſwer to be unintelligible non-ſenſe, thy judgment and mine muſt part her<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Mixture doth ſuppoſe at leaſt two ingredients, but what <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat is which goes f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om grace to mingle with ſin, I cannot divine. He ſhould mean, that when grace decreaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, corruption increaſes, and gathers ſtrength. As for my words, they intended but that ſin and grace are in the ſame ſubj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct, or in each faculty of the ſoul, not ſucceſſively, but together, at the ſame time, which <hi>Paul</hi> expreſſes by <hi>anot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er Law in his members, rebelling againſt the Law of his mind, Rom</hi> 7.23.</p>
+               <p>[Reader, <hi>G.W.</hi> quotes a paſſage, <hi>p.</hi> 18. <hi>l.</hi> 17. of my Book, wherein he ſaies, I wronged <hi>S. F.</hi> But I ref<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r you to the place, where you may read it, and judge as thou ſeeſt cauſe.]</p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>ſaies, <hi>p.</hi> 19. Conſcience in the Saints being but in part cleanſed, as a witneſs it te<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tifies falſhood <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o them alſo.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>
+                  <hi>Anſ.</hi> This man laies falſhood and badneſs to the charge of the Saints Conſciences, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eas they witn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſed truth to them, Sanctification throughout, 1 Theſ. 5.23. and <hi>holineſſe perfect<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d in the fear of God</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>
+                  <hi>Reply.</hi> I do ſtill affirm that no faculty in the Saints <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſanctified wholly, but only in part (And that place you bring, 1 <hi>Theſ.</hi> 5.23. is a diſtribution of the ſubjects of Grace, it intends not pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fection of deg<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es in each ſubject) And if no faculty, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſcience, As for 2 <hi>Cor.</hi> 7 1. which you f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o quo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ong that Scripture. The words are not <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cted,</hi> but <hi>perf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cting holineſs</hi> And the Apoſtle <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o not ſuppoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir holineſſe to be perfected, but exho<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> them to end<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>avour
+<pb n="14" facs="tcp:121325:12"/> after degrees of Grace, nearer perfection, which he ex<g ref="char:EOLhyphen"/>preſſes by <hi>cleanſing from all filthineſſe of fleſh and Spirit,</hi> in the former clauſe of the verſe, which ſuppoſes that there was filthineſs remaining in both, and then in Conſcience, for that is partly intended under <hi>Spirit,</hi> See <hi>Quakers fol<g ref="char:EOLhyphen"/>ly, p.</hi> 19.</p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>ſaith, <hi>p.</hi> 21. As Chriſt was made ſin for us, ſo are we the righteouſneſs of God in him, but the former was by imputation, not inherence, and therefore ſo the lat<g ref="char:EOLhyphen"/>ter.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>
+                  <hi>Anſ.</hi> If our being made the righteouſneſs of God in Chriſt be but like Chriſt's being made ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for us, then this Pr. might as well ſay, that we ſhall have no righte<g ref="char:EOLhyphen"/>ouſneſs in us at all, for Chriſt was made ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n for us, who knew no ſin.</p>
+            </sp>
+            <sp>
+               <speaker>T.D.</speaker>
+               <p>
+                  <hi>Reply.</hi> There is not the ſame reaſon <hi>G.W.</hi> for ſaying the one, as for ſaying the other. For 2 <hi>Cor.</hi> 5. <hi>ult.</hi> aſſerts ſuch a proportion as I mentioned, but no Scripture ſuch a one as you vainly ſuppoſe. Yet this I ſay, that as there was no neceſſity of inherent ſin in Chriſt, in order to the imputation of our ſin to him, ſo nor of inherent righteouſneſs in us, to the imputation of his righteouſ<g ref="char:EOLhyphen"/>neſs to us. But our Juſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fication is as independent upon our inherent righteouſneſs, as if we had none. The Sure<g ref="char:EOLhyphen"/>ty (though he never contracted penny of the debt) is as much obliged to payment as the Princ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pal; and the Principal is as truly diſcharged by the Su<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ety s payment, though he pay nothing out of his own eſtate.</p>
+            </sp>
+            <sp>
+               <speaker>T.D.</speaker>
+               <p>ſaid, do you think that the righteouſneſs which the Apoſtle cals his own, was not Chriſt's?</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>
+                  <hi>Anſ.</hi> He might as well ſay, that the Apoſtle de<g ref="char:EOLhyphen"/>ſired no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to have Chriſts righteouſneſs, which is but one.</p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>
+                  <hi>Reply.</hi> The Apoſtle askes a queſtion wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch implies an affirmation? <hi>Who maketh thee to differ from another?
+<pb n="15" facs="tcp:121325:12"/> and what haſt thou that thou didſt not receive?</hi> 1 <hi>Cor.</hi> 4.7. And 'tis as true of righteouſneſs inherent, as of common gifts, which are there ſpoke of. The righteouſneſs of his perſonal conformity to the Law <hi>Paul</hi> deſired not to be found in, but in Chriſts imputed to him. But I have ſaid enough, which <hi>G.W.</hi> takes no notice of, becauſe he cannot reply to it <hi>Quakers Folly, p.</hi> 21. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.</p>
+               <p>[Note Reader, that <hi>G.W.</hi> ſpends two Pages, 27, 28. of his Book, about my explication of <hi>Col.</hi> 1.26. and the di<g ref="char:EOLhyphen"/>ſtinction I make between Chriſt perſonal and myſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cal; for anſwer whereto, to ſave the trouble of repetition, I refer you to <hi>Quakers Folly, p.</hi> 22, 23. Only whereas he re<g ref="char:EOLhyphen"/>plies to the diſtinction, that Chriſt is but one, I ſay ſo too, yet the Name of Chriſt is applied ſomtimes to the <hi>Head,</hi> and at other times to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>Body.</hi> And they are though one in reſpect of Union, yet of diſtinct conſidera<g ref="char:EOLhyphen"/>tion in the buſineſſe of ſalvation, <hi>Eph.</hi> 5.23. Chriſt the Head is the Saviour, Chriſt the Body the Saved.]</p>
+               <p>And whereas <hi>G.W.</hi> denies, that he ſaid, we are juſtified by <hi>Sanctification,</hi> I am confident that was his word, however, if it was <hi>righteouſneſſe within,</hi> it comes all to one: 'Tis evident that the d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ift of his diſcourſe was to maintain that aſſertion.</p>
+            </sp>
+         </div>
+         <div n="4" type="question">
+            <pb n="16" facs="tcp:121325:13"/>
+            <head>
+               <hi>QUESTION 4.</hi> Concerning the Scriptures.</head>
+            <sp>
+               <speaker>T D</speaker>
+               <p>THE Scriptures are the Word of God and the ſaid R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le of Faith and life, and that there is n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> o<g ref="char:EOLhyphen"/>th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sc<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ptu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>G <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </speaker>
+               <p>
+                  <hi>Anſ.</hi> What then was their Rule who ſpoke <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Sc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iptu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es? And what was the Gentiles Rule? And what muſt be their R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le who cannot read th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>crip<g ref="char:EOLhyphen"/>tures? M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt they be condemned, becauſe they cannot read th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m? The Word o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God is in the hea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts of Be<g ref="char:EOLhyphen"/>liev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs, and of this Word the S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riptures are a true de<g ref="char:EOLhyphen"/>clara<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on but a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t not the Word</p>
+            </sp>
+            <sp>
+               <speaker>T D.</speaker>
+               <p>
+                  <hi>R<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ly</hi> I muſt ag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in refer the Reader for an an<g ref="char:EOLhyphen"/>ſwer to th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Qu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, to <hi>Qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kers Fo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y, p.</hi> 29, 30, 43, 44. And <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> matter c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ned <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Scriptures is a Rule to <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> (ſo for as 'tis revealed to them) and w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>re it wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> put into w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iting. And ſo much of it as <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> up<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the hearts of Heathens, is a rule to th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m</hi> 2.12 And ſince they a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e in a body preſented <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m are our Rule. And for thoſe who c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nnot r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, though th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ſhall not be condemned for a <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncapacity, yet they ſhall for not walk ng acc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rding to the Scriptures, as they a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ain the know<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ge of them by ſome oth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r way a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hea<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng, <hi>&amp;c.</hi> To that Not on, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Sc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ures are but a true d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>claration of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts of Beli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vers. I re<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, that th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>p u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s are al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o a d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>claration of what ought to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hea<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s of Bel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ev<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd unbe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>evers. If you m<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> (a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moſt of you do) that they are
+<pb n="17" facs="tcp:121325:13"/> only a declaration of their conditions who ſpake them, read, 1 <hi>Pet.</hi> 1.10, 12. and that place alone will confute you.</p>
+            </sp>
+            <sp>
+               <speaker>T D.</speaker>
+               <p>
+                  <hi>John</hi> 20.30, 31. Suppoſe we had the ſigns faith<g ref="char:EOLhyphen"/>fully r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ded, yet were they not our Rule, becauſe God did not g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve order for them, but ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h aſſured us as much as is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uffic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent to create and preſerve Faith in the Go<g ref="char:EOLhyphen"/>ſpel wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch we have.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>G <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </speaker>
+               <p>
+                  <hi>Anſ.</hi> Faith is the gift of God, not created and preſerved by the Sc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iptures, but by Chriſt the author of Faith And again, this Prieſt in affirming no other Rule, but what we have in Scr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pture, hath contradicted him<g ref="char:EOLhyphen"/>ſelf, <hi>p</hi> 44 he ſaies, <hi>that thoſe things that were not written, migh have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>een uſeful, if they had been written, for they were done for the very ſame end, with thoſe</hi> (ſigns) <hi>which are l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ft us.</hi> So then many things that are not written, might have been as uſeful, as that which is written in the Sc<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ptures.</p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>
+                  <hi>Reply.</hi> I ſee thou art a man of depth, <hi>G.W.</hi> to make an opp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſition where there is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſubordination, be<g ref="char:EOLhyphen"/>tween the efficient and inſtrumenta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cauſe. The ſecond creation doth not exclude (though the firſt did) inſtru<g ref="char:EOLhyphen"/>ments or ſecond cauſes, James 1.18. <hi>Of his own will be<g ref="char:EOLhyphen"/>gat he us with the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of Truth.</hi> Rom. 10.17. <hi>Faith comes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y hear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng, and hear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng by the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d of God.</hi> Which Word is the repo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Goſpel. <hi>v.</hi> 16. I am not ſenſible of any contradiction in the paſſages <hi>G<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> quotes. Q. <hi>Folly, p.</hi> 26. I told Mr. <hi>F ſher,</hi> Sermons hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſame common end with the Scriptures, yet they are not a Rule any fur<g ref="char:EOLhyphen"/>th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r than they ag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee with the Scriptures, And hence the <hi>Bere<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s</hi> are commanded for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ning <hi>Pauls</hi> ſermons, by the Sc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iptures, <hi>Acts</hi> 17.11. Yet God bleſſes them ſo far as that the Word preached is the uſua<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> means of converſi<g ref="char:EOLhyphen"/>on, whereas the written Scriptures ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> more rarely ſuch. You add, as uſeful, which I did not affirm, for that
+<pb n="18" facs="tcp:121325:14"/> which was delivered to us by Divine Authority, hath Gods promiſe of bleſſing, that it ſhall be inſtrumental to beget a Divine Faith, John 20.21. <hi>Theſe</hi> [ſigns] <hi>are written that ye might believe,</hi> &amp;c. But from ſuch ſigns as are handed by humane autho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity only an humane Faith may be expected, which is uſeful in its kind to prevent or take off prejudice againſt what is of Divine Authority, which the carnal reaſon of man is apt to cavil at<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f you ſay (as you ſeem to do) tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> if all the ſigns were done for the ſame end, then being written they muſt reach the ſame end. I deny the conſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quence, for the difference lies in Gods arbitrary diſpenſation. H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ought them all for the end mentioned, but hath thought fit to tranſmit only ſome ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w by writing to po<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>erity, and they ſhall be in ſtead of all the reſt.</p>
+            </sp>
+            <sp>
+               <speaker>[G.W.</speaker>
+               <p>cavils at my denial o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their infallibility, which I judge anſwered ſuffic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ently, Qu <hi>Folly, p.</hi> 39. <hi>l.</hi> 20.]</p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>As for our want of infallibllity, 'tis no valid plea againſt our Miniſtry, <hi>p.</hi> 33. and the Spirit of God may accompany a Miniſtry, and the Miniſter not have the Spi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it. See for proof, <hi>Acts</hi> 20 30. <hi>Mat.</hi> 23.23.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>
+                  <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ.</hi> Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y that want infallibility are out of the Truth. The Scribes and Phariſees th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ſpoke perverſe things againſt the Ap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtles, the Spirit did not then ac<g ref="char:EOLhyphen"/>company what they m niſtr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d.</p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>
+                  <hi>R ply.</hi> Why do you not reply to <hi>Acts</hi> 20.30. Which proves clearly that the Goſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l-Miniſters are not in<g ref="char:EOLhyphen"/>fallible? As alſo 1 <hi>Theſ.</hi> 5.19, 20, 21. Which I impro<g ref="char:EOLhyphen"/>ved, Q. <hi>Folly. p.</hi> 33. we may m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ke in ſome things, yet ordinarily we preach infallible Truths. Hence the <hi>Church</hi> is called <hi>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Pillar and Ground of Truth,</hi> 1 Tim. 3.15. <hi>Pillar, non ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſu a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ctonico, ſed forenſi;</hi> as upon the Exchange in <hi>London,</hi> are Pillars upon which hang Ta<g ref="char:EOLhyphen"/>bles of Proclamations. And <hi>Ground,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Seat of Tru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h,</hi> or place of its reſidence, <hi>and the gates of Hell ſhall
+<pb n="19" facs="tcp:121325:14"/> no more prevail againſt</hi> the publication, than the profeſſion and practiſe of infall<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble Truths in the Church univerſal, though they may againſt particular Miniſters and Chur<g ref="char:EOLhyphen"/>ches, by damnable Hereſies (ſuch as yours, <hi>G.W.</hi>) And as for your inſtance of the Scribes and Phariſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s. I an<g ref="char:EOLhyphen"/>ſwer, that though the Spirit did not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccompany their Mi<g ref="char:EOLhyphen"/>niſtry, when they ſpoke againſt Chr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t yet h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> d d accom<g ref="char:EOLhyphen"/>pany it, when they taught the people to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuch things as Chriſt enjoyn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d And this they d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d o<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ntimes, as I ſhewed, Mat. 23.3. <hi>What they hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> you obſerve, that ob<g ref="char:EOLhyphen"/>ſerve, and do.</hi> Chr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt did then approve of their Doctrine in thoſe things wherein he would have it practiſed. And if ſo, then the Spirit was in their Miniſt y, and yet he was not in themſelves, <hi>for t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ey ſa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, and did not, (i. e.</hi> practiſed not their own Doctrine.)</p>
+               <p>[Reader, note that <hi>G.W.</hi> having anſwered after his faſhion ſome o the a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>guments in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Diſpu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, he pre<g ref="char:EOLhyphen"/>tends alſo to reply to ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>veral things, which I wrote againſt <hi>R.H.</hi> but <hi>G. Whith<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>s</hi> replies are ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> j<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne, that I need but deſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e you to compare them (if you judge them worth your reading, for I ſhall not ſtand to tranſcribe them) with the places in my Book, to which I ſhall refer you, and I dare ſtand to your judgment.</p>
+               <p>[<hi>G.W. p.</hi> 34. <hi>T. D. p.</hi> 35. <hi>G.W p.</hi> 35. <hi>T. D p.</hi> 36, 37. <hi>G.W p.</hi> 37. <hi>T. D. p.</hi> 40, 41. <hi>G W. p.</hi> 40. <hi>T.D. p.</hi> 44.]</p>
+               <p>Only four paſſages I ſhall bri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fly reply to.</p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>The righteouſneſs which God wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks in us, is but finite, as well as other effects, p. 39</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>
+                  <hi>Anſ.</hi> And yet this Pr <hi>p.</hi> 37. hath owned that the righteouſneſs wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reof Chriſt is th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſubject, and that whereof he is the efficient are of one p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cies or kind; then I ſay, the righteou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neſs which God e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts in us, is not fi<g ref="char:EOLhyphen"/>nite, but infinite, for Chriſt is Gods righteouſneſs, and Chriſt is formed in us.</p>
+            </sp>
+            <sp>
+               <speaker>T.D.</speaker>
+               <p>
+                  <hi>Reply.</hi> A pitiful cavil! The righteouſneſs in Chriſt
+<pb n="20" facs="tcp:121325:15"/> which I aſſerted to be of the ſame kind with that in us, muſt be underſtood of the righteouſneſs of Chriſts humane Natu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, John 1.16. <hi>&amp; of his fulneſſe have we received Grace fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Grace, (viz.)</hi> As the eſſential and integral parts of the child anſwer to the Parents, or as the Paper receives the impreſſion of the ſtamp. Chriſt indeed is Gods righte<g ref="char:EOLhyphen"/>ouſn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs, in reſpect of Gods donation and acceptance of him for mans righteouſneſſe, 1 Cor. 1.30. <hi>Who</hi> (Chriſt) <hi>of God is mad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> unto us righteouſneſs.</hi> But the righteouſneſs of the Divine Nature or Godhead is not our Juſtification. No, but the righteouſneſs of Chriſts Humane Nature, as it receives an infinite value from the Divine Nature, to which the Humane is united in one perſon.</p>
+            </sp>
+            <sp>
+               <speaker>T D</speaker>
+               <p>ſaid, the Spirit was not wont to be effectual with<g ref="char:EOLhyphen"/>out the Letter of the Word, and gave inſtance, <hi>Rom.</hi> 10.17.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>
+                  <hi>Anſ.</hi> He might as well have ſaid, the Apoſtles Miniſtry wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not wont to be effectual, for <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ul</hi> was not a Min<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſter of the Letter (or writing) but of the Spirit, or thing declared of. 2 <hi>Cor.</hi> 3.6. <hi>Rom.</hi> 10.17. is againſt his principle, for there is a difference between the Word and the Letter, for <hi>the Word abideth for ever.</hi> 1 <hi>Pet.</hi> 1.23. So doth not the Letter. How would Pr. convince Heathens of Chriſt, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Spirit be not effectual without the Let<g ref="char:EOLhyphen"/>ter<g ref="char:punc">▪</g>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>
+                  <hi>Rep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y.</hi> I had thought <hi>Paul</hi> had been a Miniſter of the Letter, (if you mean the writing) for did not he miniſter (as you phraſe it) many Epiſtles to the Chur<g ref="char:EOLhyphen"/>ches, and command the <hi>Letter to be read, Col.</hi> 4.16. 2 <hi>Cor.</hi> 3.7. intends that <hi>Paul</hi> did not only ſhew them their duty, and the happin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs to be had in Chriſt, but his Miniſtry was a means of conveying ſtrength to do it, and putting them into an happy eſtate. Your d ſtinction between Word and L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tter is frivolous, the Letter abideth for ever in the ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e there intended, <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>z.</hi> in the impreſſions of it
+<pb n="21" facs="tcp:121325:15"/> upon the hearts of the regenerate, <hi>v.</hi> 2, 3. 'Tis not true of the new creature, that he is bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n to die. To your fond Queſtion, I anſwer, The Apo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tle makes preaching ordinarily neceſſary to the converſion of Heathens, <hi>Rom.</hi> 10.14. <hi>How ſhall they believe in him of whom they have not heard?</hi> Preaching, without the Spirits efficacy, brings but the Letter of the Word, yet 'tis as neceſſary by Gods ordination, as plowing, with the influence of the Heavens, to make the earth bring forth.</p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>The Goſpel gives life upon imperfect obedi<g ref="char:EOLhyphen"/>ence.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>
+                  <hi>Anſ.</hi> And yet before he denied our good works to be a deſerving cauſe of juſtification, when now 'tis ſo far deſerving, that the Goſpel gives li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e upon it.</p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>
+                  <hi>Reply.</hi> Fair and ſoftly goes a great way in a day, <hi>G W.</hi> you make too much haſt to have good ſpeed, to find out a contradiction where there is none. I did not ſay that imperfect obedience deſerves life, though I did, that the Goſpel gives life upon it. Thus your Catholick Bre<g ref="char:EOLhyphen"/>thren, when <hi>J mes</hi> ſaies, <hi>This man ſhall be bleſsed in his de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d, Jam.</hi> 1.25. cry out, here is a clear place to prove, that we are bleſſed <hi>for our d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eds,</hi> but alas, they ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k not the warineſs of the Scripture phraſe, which is not <hi>for,</hi> but <hi>in his deed.</hi> Our deeds may be Arg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ments or Evidences of our bleſſed ſtate, but no deſerv ng cauſe. And hadſt thou had any ingenuity, thou woul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt have taken in the who<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> period, which was neceſſary to underſtand my meaning, which was thus, <hi>Thoug<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Law gives not life without perfect obedience, the G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l gives it upon im<g ref="char:EOLhyphen"/>perfect obedience, i. e.</hi> Thou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h the L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w exac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s per<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ect per<g ref="char:EOLhyphen"/>ſonal obedience to Juſtification, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Goſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l does not, but by believing we obtain int<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſt in Chriſts righ<g ref="char:EOLhyphen"/>teouſneſs for that end.</p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>
+                  <hi>David</hi> was not free from th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſin in this life, but a ſad inſtance of the power of it in real Saints,
+<pb n="22" facs="tcp:121325:16"/> and yet he is made a pattern to New-Teſtament-Saints, <hi>Zach.</hi> 12.8. <hi>p.</hi> 48.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>
+                  <hi>Anſ</hi> That Scripture proves his Doctrine falſe, for the words are, <hi>He that is f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>le among them ſhall be as David, and the Houſe o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Dav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll be as God, as the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ngel of the Lord <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>efore them.</hi> So that <hi>David</hi> and the New-T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtament-Saints were free f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om ſin, for in God is no ſin</p>
+            </sp>
+            <sp>
+               <speaker>T. D.</speaker>
+               <p>
+                  <hi>Reply<g ref="char:punc">▪</g>
+                  </hi> The words are intended in the Letter, of the H<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch Fort<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tude and S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rength which the people ſhould have in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me of danger, like to <hi>David</hi>'s. And of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngelik<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Divine pitch of both, which the Ru<g ref="char:EOLhyphen"/>ler<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (intend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d by the Houſe of <hi>David,</hi> which was the Royal Fam<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y) <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ould be raiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to through Faith in Chriſt. And ſo they give us two ſizes of ſtrength and for<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tude, and not one only (as <hi>G<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> interpre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s them.) Some ſhall be as <hi>David,</hi> &amp; others as God. Now look as Omnipotency is not Literally promiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to <hi>Davids</hi> Houſe, but by an <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſe of ſpe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch, or Hyp<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bole, a greater mea<g ref="char:EOLhyphen"/>ſure of ſtrength than others againſt bodily enemies, ſo nor can we underſtand it (ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ritua<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly) b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t of a greater meaſure of ſpiritual ſtrength againſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>itu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l enemies.</p>
+               <p>To conclude this diſcourſe, I ſhall not refuſe to imitate an adverſary (though I ſhall be more ingenuous than to wrong h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m as he hath done me) but ſhall b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fly ſum up his principles, and aſſertions, with the place in his Book, where they are to be found.</p>
+               <p>
+                  <hi>The Spirit was eff ctual among the Gentiles, who had not the Letter of the Word,</hi> p. 39.</p>
+               <p>
+                  <hi>The works of God which true Believers witneſſe, are perfect,</hi> p. 18.</p>
+               <pb n="23" facs="tcp:121325:16"/>
+               <p>
+                  <hi>He</hi> (meaning my ſelf) <hi>would have the Believers like the P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eſts who ſin in the beſt of their performances (as they conf ſſe)</hi> p. 18.</p>
+               <p>
+                  <hi>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t our good works are the meritorious or deſerving cauſe of our Juſtification,</hi> p. 19.</p>
+               <p>G. W. <hi>finds fault with me for holding that the Scriptures are the Word of God, and the only ſtanding Rule of Faith, and life,</hi> p. 29.</p>
+               <p>
+                  <hi>Thoſe Teachers that want infallib<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lity, are out of the Truth,</hi> p. 33.</p>
+               <p>G. W. <hi>calls it Ignorance in me, to call the Spirit the third Perſon in the Trinity,</hi> p. 22.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="narrative">
+            <pb facs="tcp:121325:17"/>
+            <pb n="1" facs="tcp:121325:17"/>
+            <head>A NARRATIVE.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y Rejoynder to <hi>G.W.</hi> having been finiſhed a good while ſince (as the date of the Epiſtle will inform thee) and the Book<g ref="char:EOLhyphen"/>ſeller having thought fit to delay the publication, after it was off the Preſſe, (upon a conſideration not neceſſary to be mentioned) I have been perſwaded by ſome worthy Friends to annex a Narrative, the materials whereof lay by me; and are of undoubted credit. To moſt of them thou ſhalt have the Witneſſes names (perſons of much integrity) and where they are wanting in the reſt (the Witneſſes not judging it adviſable in ſome reſpects to be publickly named) I ſhall be accountable to any man that deſires it for a punctual proof. Thou canſt not be ſo much a ſtranger in <hi>England,</hi> as not to know how fre<g ref="char:EOLhyphen"/>quently the Quakers decry the preſent Miniſtry, with their Doctrine and Worſhip, under the Notion of Anti<g ref="char:EOLhyphen"/>chriſtian. But how little reaſon have they ſo to do? conſide<g ref="char:EOLhyphen"/>ring how much themſelves do ſymbolize with Antichriſt, particularly in that grand Doctrine of Juſtification by works, which as they hold in the Principle, they reduce it to Practiſe.<note place="margin">
+                  <hi>Witneſſe.</hi> Mr. Davis Min. of Dover.</note> For one of them lately at <hi>Dover,</hi> when he came to die, upon the queſtion put to him,
+<pb n="2" facs="tcp:121325:18"/> made anſwer, that he expected ſalvation only by his own works, and not by Chriſt. And dying men may uſually be preſumed to ſpeak their hearts. And I am out of doubt that they are acted by the antichriſtian Faction. A Gentle<g ref="char:EOLhyphen"/>man of good credit aſſured me that he met with an <hi>Engliſh</hi> Jeſuit in <hi>London,</hi> the firſt Lords day in <hi>June</hi> laſt; one who was bred in <hi>Cambridge,</hi> and had been formerly of his acquaintance, who after ſome ſhyneſſe to be known, at length confeſſed that he came over to propagate the <hi>Romiſh</hi> Faith, and told him, that there was a good ho<g ref="char:EOLhyphen"/>neſt people called Quakers, whom we jeer'd at, that did their work at the ſecond hand; and he boaſted much of the numbers that turned Catholicks immediatly, or medi<g ref="char:EOLhyphen"/>ly, by becomming Quakers. And another Gentleman that came this Spring from St. <hi>Omars,</hi> did avouch that he ſaw the Jeſuits there, about four a Clock every evening throw off their Gowns, and put on aprons, and betake themſelves to the exerciſe of Handy-craft callings; ſome plaid the Shoomakers, others ſate at the Loom, others kill'd and dreſſ'd ſheep, and they did not ſtick to boaſt, that under the diſguiſe of ſuch callings (working as Journeymen, and changing place as they liſted) they ſerved the <hi>Romiſh Church.</hi> And the Head of the Colledge told him, that <hi>England</hi> never was in ſo fair a way of re<g ref="char:EOLhyphen"/>turn to the <hi>Romiſh</hi> See, ſince it broke off, as now. And what hopes the Papiſts can have, unleſſe from the encreaſe of Quakers, I leave Reader to thy determination. And the truth is, the Quakers now d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>clare their intentions to propagate their perſwaſions by the ſword, whereas they were w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt to pretend to ſo much meekneſs &amp; peace<g ref="char:EOLhyphen"/>ableneſſe<g ref="char:punc">▪</g> that they would bear neither ſtaffe nor ſword. At <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t Meeting of the Quake<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, in <hi>Hurst-Peir-point</hi> in <hi>Suſſex,</hi> he that undertook to be the Speaker, cald out to the Min<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Pariſh (who then accidentally paſſed by) ſay<g ref="char:EOLhyphen"/>ing, <hi>We will have you all down, for now our day is come<g ref="char:punc">▪</g>
+               </hi>
+               <pb n="3" facs="tcp:121325:18"/> and another Quaker in the Pariſh of <hi>Nuthurſt</hi> in the ſame County, did ſay to a Godly perſon of good quality in that Pariſh, <hi>that he no more cared to kill one of the Priests,</hi> (as he ſtiled the Miniſters) <hi>then he would to kill a dog.</hi> And another Quaker way-laid the Miniſter of <hi>Covewold,</hi> (a very worthy and reverend man<g ref="char:punc">▪</g> at his return from a Faſt) and juſtled him upon the high way, (as he kept it; having his Wife behind him) and drew out a ſword, which he had by his ſide, about half way, which was a ſhrewd preſumption that he intended the Miniſter miſ<g ref="char:EOLhyphen"/>cheif; but that ſome Neighbours that came from the Faſt, coming up to them, prevented it. And they do uſually give out threatning ſpeechs againſt the Miniſtry, and their Friends.<note place="margin">Mr. Wingfield.</note> One In<g ref="char:EOLhyphen"/>ſtance you may take, as it was formal<g ref="char:EOLhyphen"/>ly atteſted to me, under the hand of a Godly miniſter of a Town within one mile of <hi>Sandwich.</hi>
+            </p>
+            <p>I do teſtifie that <hi>Luke Howard</hi> of <hi>Dover</hi> Quaker, did ſay in my hearing on the 25 day of <hi>July</hi> 1659. upon the rode, near <hi>Dover</hi> Caſtle, that it was revealed to him by the eternal God that the Prieſts ſhall be deſtroyed, and by the people who are called Quakers. In teſtimony whereof, I ſet my hand, <hi>Aug.</hi> 3. 1659.<note place="margin">
+                  <hi>Will. Wingfield.</hi> Min. at <hi>Word.</hi>
+               </note>
+            </p>
+            <p>And in a late Pamphlet, call'd a Word of advice to the Souldiers, by <hi>E.B.</hi> Quaker, <hi>p.</hi> 2. (he ſpeaking to the Souldiers, of the Miniſters) uſes this paſſage, <hi>Oh give the Prieſts bloud to drink, for they are worthy.</hi> I my ſelf read the whole Book through, and can therefore atteſt it upon perſonal knowledge.</p>
+            <p>And what affronts theſe wretches offer to the Worſhip of God, is notoriouſly known: On the Lords day (be<g ref="char:EOLhyphen"/>ing the 18 of <hi>Sept.</hi> 1659.) one <hi>Will. Naylor</hi> Brother to <hi>James Naylor,</hi> (a Quaker) came into the Savoy Church,
+<pb n="4" facs="tcp:121325:19"/> when Mr. <hi>Hooke</hi> was in the Pulpit preaching, and made ſuch a bellowing noiſe, that it ſeemed to be rather the Devil ſpeaking within him, than his own natural voice; inſomuch that the Miniſter was neceſſitated for a time to hold his peace; and many of the people were ſadly af<g ref="char:EOLhyphen"/>frighted at the dreadfulneſſe of the noiſe, that ſome ran one way, ſome another, to ſecure themſelves from the danger which they apprehended was near them. This is teſtified by credible Witneſſes, as Mr. and Mrs. <hi>Hooke,</hi> and divers others.</p>
+            <p>And at <hi>Aldermanbury,</hi> on a Lords day, <hi>June</hi> 12, 1659. whilſt the Pſalm was ſinging, a Quaker gat up into the Pulpit, with his Hat on his head, and ſetting his Breech upon the Cuſhion, fell to ſewing. Anoth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r example as remarkable as the former, was in Chriſt-Church, <hi>Octob.</hi> 6, 1659. It being a Day of publick Thankſgiving, the Parl. L. Major, Aldermen, Com. Coun. &amp; Officers of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he army, being there met together, to hear Dr. <hi>Homes</hi> and Mr. <hi>Caryl,</hi> who were appointed by the Parl. to preach before them. Mr. <hi>Caryl</hi> being the laſt that preached, it ſo fell out, that when he was in his laſt Prayer, there were two Quakers made a very great diſturbance in the publick aſſembly, in the very preſence of authority: This will be teſtified by many Witneſſes that were preſent. And they ſeem to re<g ref="char:EOLhyphen"/>gard their own Worſhip as little as they do ours. For <hi>March</hi> 6 1659, one <hi>Mary Todd</hi> of <hi>Southwark,</hi> Quaker, at the Bull and Mouth in Alderſgate-ſtreet, an uſual Meeting place, whilſt her Friends (as they call one ano<g ref="char:EOLhyphen"/>ther) were ſpeaking, pull'd up all her cloaths above her middle,<note place="margin">Mr. Tho. Creſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, Chirurgion.</note> expo<g ref="char:EOLhyphen"/>ſing her nakedneſſe to the view of all that were in the Room, and walked ſo up and down a while, uſing ſeveral expreſſions about her practiſe, as ſutable to a ſtate of innocency and perfe<g ref="char:EOLhyphen"/>ction: This I had from an eye and ear-witneſſe who is
+<pb n="5" facs="tcp:121325:19"/> named in the Margin: and what a beaſtly and abomina<g ref="char:EOLhyphen"/>ble practiſe this was; eſpecially in a woman, beſides the unſeaſonableneſſe of it, being in the time of their Wor<g ref="char:EOLhyphen"/>ſhip, (ſuch as it is) I leave to thee to judge. And whereas 'tis an uſual thing for the Quakers to call Miniſters of the Goſpel Liars, it is well enough known, that beſides the Lies of their Doctrine, they have not ſo much moral ho<g ref="char:EOLhyphen"/>neſty, as to ſpeak Truth in matters of Fact.</p>
+            <p>In <hi>May</hi> laſt, there having been ſome diſcourſe one day between one <hi>Howard</hi> of <hi>Dover</hi> Quaker,<note place="margin">Mr. Ruſſel, Min. in the Marſh.</note> and a Miniſter in <hi>Rumney</hi> Marſh, the next day was appointed for further diſcourſe between them two, but over-night the ſaid <hi>Howard</hi> ſent his horſe and man for Mr. <hi>Fiſher</hi> (ſometime a Miniſter, now a Quaker, and ſuſpected to be a Jeſuit.) and going with him to the place of meeting, told the people, that ſeeing <hi>S. Fiſher</hi> came accidentally thither, he would now leave the diſcourſe to him; whereupon one among the people ſtept out, and told <hi>Howard</hi> that he lied, for he did ſee his horſe and man go out over-night, and ſee the ſaid <hi>Fiſher</hi> ride into the Town on the morning upon the ſame horſe, by which it was manifeſt that he ſent for him on purpoſe. All that they could ſay in juſtification of themſelves, was, that the ſaid <hi>Fiſher</hi> came accidentally in reſpect of the people or Miniſter who was to diſcourſe, they knowing nothing of his coming. To conclude, I deſire thee Rea<g ref="char:EOLhyphen"/>der, to peruſe the Quakers anſwer to certain queſtions propoſed to them, hereto annexed, wherein thou wilt find them <hi>denying the Scriptures to be the Rule for judging matters of Faith; aſserting that they ſhould have had knowledge of God ſufficient to ſalvation, if they had never heard of the Bible; and their words and writings are as infallible as the Scriptures; and again, denying the Perſons in the Godhead, the Humane, Nature of Chriſt, and that
+<pb n="6" facs="tcp:121325:20"/> Chriſt is a diſtinct Perſon from the Saints, and that there hath been a true Church ſince the Apoſtles, till now, and that one day is more holy than another.</hi> And ſurely by theſe Principles in conjunction with the reſt which thou haſt an account of in the Book it ſelf, to which this Narrative is annexed, the Quakers have for ever forfeited the name of Chriſtians, and are to be reputed Heathens.</p>
+            <closer>
+               <dateline>
+                  <hi>Sandwich,</hi> 
+                  <date>Octob. 10 1659.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="questions">
+            <head>Questions propoſed to, and anſwered by <hi>Joſeph Fuce,</hi> Quaker.</head>
+            <p>Queſt <hi>VVHether the Holy Scriptures of the Old and New Testament be the Rule of trying and judging all matters of Faith and obedience towards God?</hi>
+            </p>
+            <p>Anſw. And now I ſhall ſet down theſe Proofs to prove the Scriptures are not to be the Rule for to try and judge all things or matters of Faith, <hi>John</hi> 5.22 <hi>&amp;c.</hi>
+            </p>
+            <p>Q. <hi>Whether the Light within, you ſo much ſpeak of, be ſuffici<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt to guide you to Salvation, if you had never heard of the Bible?</hi>
+            </p>
+            <p>Anſ. I do believe if I had never ſeen the Bible, yet believing the Witneſſe which God hath given, which is Chriſt, the Light &amp; hope and Glory in us, which we ſo much ſpeak of, and preach freely as we have received, to the offending of thoſe deceivers that preach for hire, and ſo make merchandiſe of the people, I ſay, I ſhould have attained to the knowledge of God, if I had never heard of the Bible.</p>
+            <pb n="7" facs="tcp:121325:20"/>
+            <p>Q <hi>Whether the teachings or writings of any of your way be infallible or of equal authority with the Scriptures of the Old and New Teſtament?</hi>
+            </p>
+            <p>Anſ. I ſay, we do not erre in ſpeaking or writing the Truth as it is in Jeſus, and that of God in all Conſciences ſhall one day witneſſe this to be true and infallible: and the Scriptures and our writings hath and will moſt cer<g ref="char:EOLhyphen"/>tainly come to paſſe.</p>
+            <p>
+               <hi>Q. Whether the Father, the Word, and the Spirit be three diſtinct Perſons in the ſelf-ſame Godhead?</hi>
+            </p>
+            <p>Anſ. As for thy words, <hi>three diſtinct Perſons,</hi> that I deny, till thou proveſt them by plain Scripture. It is like the Biſhops in <hi>Rome</hi> may own thee in them, for that is ſome of their unfruitful works of darkneſſe.</p>
+            <p>Qu. <hi>Whether J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſus Chriſt hath a Divine and Humane Na<g ref="char:EOLhyphen"/>ture in one perſon?</hi>
+            </p>
+            <p>Anſ. Thy words, <hi>Humane Nature,</hi> I return them with thoſe words, <hi>Three Perſons,</hi> into the Pit of confuſion, from whence they came.</p>
+            <p>Qu. <hi>Whether Jeſus Chriſt remains for ever a diſtinct Perſon from all the Saints?</hi>
+            </p>
+            <p>Anſ. But as for being a diſtinct Perſon from all the Saints, he is not.</p>
+            <p>Qu. <hi>Whether the true Church hath failed upon earth ſince the death of the Apoſtles of Jeſus Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſt, mntil theſe times? if not, in what age or ages, or among what people hath it con<g ref="char:EOLhyphen"/>tinued?</hi>
+            </p>
+            <p>Anſ. He cauſed all both ſmall and great, rich and poor, bond and free, to receive a mark in their forheads, or in their right hand. Read, <hi>Rev.</hi> 13. And thus the true Church ceaſed or failed upon earth, ſince the death of the Apoſtles of Chriſt, until <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he raiſing up of Gods own ſeed out of the earth, to ſtand a witneſſe a<g ref="char:EOLhyphen"/>gainſt wicked murderers, and Perſecutors of the Saints, and true Church of Chriſt.</p>
+            <pb n="8" facs="tcp:121325:21"/>
+            <p>Qu. <hi>Whether the first day of the Week be more holy than any other day of the Week.</hi>
+            </p>
+            <p>Anſ. All the daies of the Week as the Lord created them, are holy unto the Saints, who are redeemed from obſerving daies and moneths, and times, and years.</p>
+            <p>Theſe things are expreſly aſſerted and ſubſcribed by</p>
+            <closer>
+               <signed>Joſeph Fuce.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:121325:21"/>
+            <pb facs="tcp:121325:22"/>
+         </div>
+      </body>
+   </text>
+</TEI>
